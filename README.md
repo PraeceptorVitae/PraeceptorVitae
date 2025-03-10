@@ -5,8 +5,8 @@ Hey hey people! I'm Bruno, a a student who's trying to get a bit better every si
 
 ### Ideas?
 - 🔭 I’m currently working on fixing my schedule.
-- 👯 I’m looking to collaborate on OSS project.
-- 📫 How to reach me: Found me on [twitter](https://x.com/Zarnov_B)
+- 👯 I’m looking to collaborate on OSS projects, mostly about data.
+- 📫 You can find me on: [twitter](https://x.com/Zarnov_B)
 
 ### Language
 [![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraeceptorVitae)](https://github.com/anuraghazra/github-readme-stats)
